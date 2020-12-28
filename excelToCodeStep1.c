@@ -77,7 +77,7 @@ while (counter < 999999) {
 	  }
 	  kas++;
 	  if(kas%60==0){
-	  	printf("\n");//%d. line - ",kasa+2);
+	  	printf(" ");//%d. line - ",kasa+2);
 	  	kasa++;
 	  }
   }
