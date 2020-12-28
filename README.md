@@ -2,7 +2,7 @@ Steps to use the program
 
 1 - ) Create a frame(to create a frame ,type 1 into the cell that you want to paint), according to your LED strip, by excel. 
 
-2 - ) Select the frame and click to "get data from a table" .
+2 - ) Select the frame and click "get data from a table" .
 
 3 - ) Press Ctrl+A and copy all cells(which contain 1 or null).
 
