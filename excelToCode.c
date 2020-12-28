@@ -7,7 +7,7 @@ int main(void){
  	frameToCodeStep2(frameToCodeStep1("paste here"));
 	 }
 int frameToCodeStep1(char excel[]) {
-  int counter = 0, k = 0, c = 0, m = 9, i = 0, t = 0,f=0;
+  int counter = 0, k = 0, c = 0, m = 9, i = 0, t = 0,f=0;  //type the number of (LEDs number in one row - 1) instead of 9
   char frameOrder[999999];
   char result[999999];
   framecounter++;
@@ -29,9 +29,6 @@ while (1 == 1) {
     }
     i = i + 1;
   }
-  while(f<60){
-    //printf("\n%d. frame FrameOrder : %d  -  Symbol : %c",framecounter,f,frameOrder[f]);
-	f++;
   }
   int l;
 while (counter < 999999) {
@@ -64,8 +61,8 @@ while (counter < 999999) {
       	//printf("Even row (n) - Order : %d\n",counter+m);
       }
       m = m - 2;
-      if (m < -9) {
-        m = 9;
+      if (m < -9) { //type the number of (LEDs number in one row - 1) instead of 9
+        m = 9;		//type the number of (LEDs number in one row - 1) instead of 9
       }
     }
     counter++;
@@ -77,10 +74,6 @@ while (counter < 999999) {
   		break;
 	  }
 	  kas++;
-	  if(kas%60==0){
-	  	printf("");//%d. line - ",kasa+2);
-	  	kasa++;
-	  }
   }
   return result;
 }
@@ -91,8 +84,8 @@ void frameToCodeStep2(char excel[]){
 			break;
 		}
 		
-		row[i%60]=excel[i];		
-		if(i%59==0&&i!=0){
+		row[i%60]=excel[i];	//type the number of LEDs instead of 60	
+		if(i%59==0&&i!=0){	//type the number of (LEDs - 1) instead of 60	
 			printf("\n");
 			printf("frameToCode(%c",'"');
 			int j=0;
