@@ -19,3 +19,5 @@ Steps to use the program
 Also you can convert multiple scenes at once, with same steps.
 
 (I showed these steps in with pictures in the steps folder)
+
+It's amateurish, but it works.  :)
