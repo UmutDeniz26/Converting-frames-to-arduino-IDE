@@ -1,6 +1,6 @@
 Steps to use the program
 
-1 - ) Create a scence(to create a scence ,write 1 to the cell that you want to paint), according to your LED strip, by excel. 
+1 - ) Create a scence(to create a scence ,type 1 into the cell that you want to paint), according to your LED strip, by excel. 
 
 2 - ) Select the scence and click to "get data from a table" .
 
@@ -10,9 +10,9 @@ Steps to use the program
 
 5 - ) Then,copy the result and paste into excelToCodeStep1.(Remove the columns line)
 
-6 - ) Copy the output and paste to https://onlinetexttools.com/replace-text (for deleting spaces)
+6 - ) Copy the output and paste to https://onlinetexttools.com/replace-text (for removing spaces)
 
-7 - ) Copy the result and paste into excelToCodeStep2.(write 'm' at the end of string)
+7 - ) Copy the result and paste into excelToCodeStep2.(type 'm' at the end of the string which you copied)
 
 8 - ) Copy the output and paste to arduino code.
 
