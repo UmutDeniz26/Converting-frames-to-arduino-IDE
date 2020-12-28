@@ -12,9 +12,9 @@ Steps to use the program
 
 6 - ) Copy the result and paste into excelToCodeStep2.
 
-7 - ) Copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
+7 - ) Finally,copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
 
-Also you can convert multiple scenes at once, with same steps.
+!!!! Also you can convert multiple scenes at once, with same steps. !!!!
 
 (I showed these steps in with pictures in the steps folder)
 
