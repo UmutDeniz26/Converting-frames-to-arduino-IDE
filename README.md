@@ -6,15 +6,13 @@ Steps to use the program
 
 3 - ) Press Ctrl+A and copy all cells(1 and null).
 
-4 - ) Paste these to https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx
+4 - ) Paste these to https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx ("Keep empty lines" should be unchecked).
 
-5 - ) Then,copy the result and paste into excelToCodeStep1.(Remove the columns line)
+5 - ) Then,copy the result and paste into excelToCodeStep1.
 
-6 - ) Copy the output and paste to https://onlinetexttools.com/replace-text (for removing spaces)
+6 - ) Copy the result and paste into excelToCodeStep2.
 
-7 - ) Copy the result and paste into excelToCodeStep2.(type 'm' at the end of the string which you copied)
-
-8 - ) Copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
+7 - ) Copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
 
 Also you can convert multiple scenes at once, with same steps.
 
