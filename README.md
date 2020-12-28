@@ -10,7 +10,7 @@ Steps to use the program
 
 5 - ) Execute.Then,copy the result and paste into excelToCodeStep1.
 
-6 - ) Execute.Then,Copy the result and paste into excelToCodeStep2.
+6 - ) Copy the result and paste into excelToCodeStep2. Then, execute.
 
 7 - ) Finally,copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
 
