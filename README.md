@@ -8,9 +8,9 @@ Steps to use the program
 
 4 - ) Paste these to https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx ("Keep empty lines" should be unchecked).
 
-5 - ) Then,copy the result and paste into excelToCodeStep1.
+5 - ) Execute.Then,copy the result and paste into excelToCodeStep1.
 
-6 - ) Copy the result and paste into excelToCodeStep2.
+6 - ) Execute.Then,Copy the result and paste into excelToCodeStep2.
 
 7 - ) Finally,copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
 
