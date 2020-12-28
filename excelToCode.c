@@ -29,7 +29,7 @@ while (1 == 1) {
     }
     i = i + 1;
   }
-  }
+  
   int l;
 while (counter < 999999) {
     char x = frameOrder[counter];
