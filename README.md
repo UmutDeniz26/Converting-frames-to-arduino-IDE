@@ -14,7 +14,7 @@ Steps to use the program
 
 7 - ) Copy the result and paste into excelToCodeStep2.(type 'm' at the end of the string which you copied)
 
-8 - ) Copy the output and paste to arduino code.
+8 - ) Copy the output and paste (like i do in "demoLedEffect.ino") to arduino code.
 
 Also you can convert multiple scenes at once, with same steps.
 
