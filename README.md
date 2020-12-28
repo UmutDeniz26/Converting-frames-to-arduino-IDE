@@ -8,11 +8,11 @@ Steps to use the program
 
 4 - ) Paste these to https://www.gillmeister-software.com/online-tools/text/remove-line-breaks.aspx
 
-5 - ) Then,copy the result and paste into excelToCodeStep1.
+5 - ) Then,copy the result and paste into excelToCodeStep1.(Remove the columns line)
 
 6 - ) Copy the output and paste to https://onlinetexttools.com/replace-text (for deleting spaces)
 
-7 - ) Copy the result and paste into excelToCodeStep2.
+7 - ) Copy the result and paste into excelToCodeStep2.(write 'm' at the end of string)
 
 8 - ) Copy the output and paste to arduino code.
 
