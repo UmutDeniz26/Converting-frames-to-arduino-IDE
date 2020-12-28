@@ -10,9 +10,7 @@ Steps to use the program
 
 5 - ) Copy the result and paste into excelToCodeStep1.Then, execute.
 
-6 - ) Copy the result and paste into excelToCodeStep2. Then, execute.
-
-7 - ) Finally,copy the output and paste (like i did in "demoLedEffect.ino") to arduino IDE.
+6 - ) Finally,copy the output and paste (like i did in "demoLedEffect.ino") to arduino IDE.
 
 !!!! Also you can convert multiple frame at once, with same steps. !!!!
 
