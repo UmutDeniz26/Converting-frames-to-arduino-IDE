@@ -15,3 +15,6 @@ Steps to use the program
 7 - ) Copy the result and paste into excelToCodeStep2.
 
 8 - ) Copy the output and paste to arduino code.
+
+
+(I showed these steps with pictures)
