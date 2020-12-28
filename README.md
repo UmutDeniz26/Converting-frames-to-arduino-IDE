@@ -16,5 +16,6 @@ Steps to use the program
 
 8 - ) Copy the output and paste to arduino code.
 
+Also you can convert multiple scenes at once, with same steps.
 
 (I showed these steps with pictures)
