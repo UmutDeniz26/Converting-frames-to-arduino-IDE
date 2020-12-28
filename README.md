@@ -18,4 +18,4 @@ Steps to use the program
 
 Also you can convert multiple scenes at once, with same steps.
 
-(I showed these steps with pictures)
+(I showed these steps in with pictures in steps folder)
